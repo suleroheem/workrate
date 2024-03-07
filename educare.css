@@ -1,0 +1,471 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 35px;
+  font-size: 19px;
+  color: black;
+}
+body {
+  background-color: rgb(247, 245, 245);
+}
+
+.plug {
+  color: black;
+  width: 150%;
+  height: 290vh;
+  font-size: x-small;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;
+}
+header h3 {
+  margin-left: 20px;
+}
+
+.dot {
+  margin-top: 30px;
+}
+li {
+  list-style: none;
+  display: flex;
+  column-gap: 10px;
+}
+span {
+  color: blueviolet;
+}
+.ten {
+  background-color: white;
+  height: 100px;
+  width: 100px;
+}
+.pic {
+  width: 700px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rim {
+  height: 40px;
+  width: 40px;
+  border-radius: 150px;
+}
+
+.button-1 {
+  background-color: black;
+  color: bisque;
+  font-size: smaller;
+}
+
+.wen {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+}
+
+.ppl {
+  color: blue;
+  margin-bottom: 50px;
+}
+.brother {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.spacer {
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  margin-left: 10px;
+  width: 0%;
+}
+
+header h3 {
+  margin-bottom: 90px;
+}
+.wen {
+  background-color: white;
+  height: 510px;
+  width: 80%;
+  padding-left: 70px;
+  padding-top: 90px;
+}
+.by {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.pie {
+  height: 40px;
+  width: 40px;
+  border-radius: 150px;
+}
+.pie-1 {
+  height: 40px;
+  width: 40px;
+  border-radius: 150px;
+}
+.time {
+  height: 200px;
+  width: 330px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.time-1 {
+  height: 200px;
+  width: 330px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.youh {
+  height: 200px;
+  width: 330px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: smaller;
+  gap: 15px;
+  margin-right: 30px;
+}
+.dunk {
+  color: brown;
+}
+.kill {
+  color: blueviolet;
+}
+.cumk {
+  color: green;
+}
+
+.den {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.button-3 {
+  background-color: black;
+  height: 50px;
+  width: 80px;
+  color: antiquewhite;
+  font-size: smaller;
+}
+.pop {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: end;
+  margin-right: 30px;
+  width: 80%;
+}
+
+.timeline-1 {
+  background-color: white;
+  width: 380px;
+  height: 490px;
+  margin-bottom: 60px;
+}
+.timeline-2 {
+  background-color: white;
+  width: 380px;
+  height: 490px;
+}
+.timeline-9 {
+  background-color: white;
+  width: 380px;
+  height: 490px;
+}
+.timeline-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 380px;
+  height: 490px;
+}
+.timeline-5 {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  width: 380px;
+  height: 490px;
+  gap: 100px;
+}
+.type {
+  width: 300px;
+  height: 40px;
+}
+.listed-2 {
+  background-color: blanchedalmond;
+  height: 120px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.listed-3 {
+  background-color: blanchedalmond;
+  height: 120px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.listed-1 {
+  background-color: blanchedalmond;
+  height: 120px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.black {
+  background-color: black;
+  color: floralwhite;
+  padding: 13px 15px;
+  font-size: 10px;
+}
+.recent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+.mom {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  gap: 15px;
+  background-color: floralwhite;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.roundflex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px 0px;
+}
+.container {
+  width: 290px;
+}
+.flow {
+  font-size: 13px;
+}
+.lorem {
+  line-height: 25px;
+}
+.layimg {
+  height: 250px;
+  width: 300px;
+}
+.laytext {
+  color: green;
+  font-size: 13px;
+  margin: 10px 0px;
+}
+.smallimg {
+  border-radius: 100%;
+  overflow: hidden;
+  height: 30px;
+  width: 30px;
+}
+.smallflex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 10px;
+  gap: 10px;
+}
+.css {
+  color: brown;
+  font-size: 13px;
+  margin: 10px 0px;
+}
+.inter {
+  color: plum;
+  font-size: 13px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.layout {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  margin-top: 100px;
+  width: 290px;
+  line-height: 20px;
+}
+.webflow {
+  width: 80%;
+}
+#smallimg-1 {
+  margin-top: 30px;
+}
+.REC {
+  margin-bottom: 30px;
+}
+.lorem {
+  margin-bottom: 50px;
+}
+.lay {
+  font-size: 20px;
+  line-height: 20px;
+  background-color: floralwhite;
+}
+.intro {
+  margin: 10px 0px;
+}
+.calender {
+  height: 20px;
+  width: 20px;
+}
+.cal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 40px;
+  margin-top: 30px;
+  line-height: 25px;
+  font-size: 20px;
+  padding: 20px;
+}
+.backcl {
+  background-color: white;
+  height: 90px;
+  width: 1000px;
+}
+.new {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  line-height: 25px;
+  width: 80%;
+  gap: 50px;
+  margin-top: 30px;
+}
+.green {
+  color: green;
+}
+.news {
+  background-color: floralwhite;
+  padding: 30px;
+}
+.marg {
+  margin-top: 30px;
+}
+.times {
+  height: 20px;
+  width: 30px;
+}
+.ninety {
+  display: flex;
+  flex-direction: row;
+  margin-left: 310px;
+  margin-top: 90px;
+}
+.plugfix {
+  position: fixed;
+  background-color: white;
+  height: 100vh;
+  width: 19%;
+}
+.timing {
+  height: 220px;
+  width: 390px;
+}
+.qwed {
+  margin-top: 60px;
+}
+.send {
+  text-decoration: none;
+}
+.timers {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: smaller;
+  gap: 15px;
+  margin-right: 30px;
+}
+.timey {
+  display: flex;
+  flex-direction: column;
+  font-size: smaller;
+}
+
+.what {
+  height: 190px;
+  width: 290px;
+}
+
+.whatdink {
+  height: 20px;
+  width: 25px;
+  border-radius: 25px;
+}
+
+.pullup {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 50px;
+  margin-top: 40px;
+  gap: 50px;
+}
+.pullupfix {
+  background-color: white;
+  height: 550px;
+  width: 290px;
+}
+
+.whatme {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  gap: 20px;
+}
+
+.cen {
+  color: red;
+}
+
+
+.intra{color: blueviolet;}
+.layme{color: green;}
+.met{display: flex;
+flex-direction: column;
+margin-bottom: 150px;}
+.upcoming{margin-right: 100px;
+margin-bottom: 10px;}
+
+.there{margin-left: 20px;
+margin-top: 30px;}
+
+.ninety {
+  display: flex;
+  flex-direction: row;
+  margin-left: 310px;
+  margin-top: 90px;
+}

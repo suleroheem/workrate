@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 35px;
+  font-size: 19px;
+  color: black;
+}
+body {
+  background-color: rgb(247, 245, 245);
+}
+.plug {
+  color: black;
+  width: 150%;
+  height: 100vh;
+  font-size: x-small;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;
+  gap: 30px;
+}
+header h3 {
+  margin-left: 20px;
+}
+
+.dot {
+  margin-bottom: 50px;
+  margin-top: 80px;
+}
+li {
+  list-style: none;
+  display: flex;
+  column-gap: 10px;
+}
+span {
+  color: blueviolet;
+}
+
+.spacer {
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  margin-left: 10px;
+  width: 0%;
+}
+.brother {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.plugfix {
+  position: fixed;
+  background-color: white;
+  height: 100vh;
+  width: 19%;
+}
+.send {
+  text-decoration: none;
+}
+
+.time-1 {
+  height: 200px;
+  width: 330px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.youh {
+  height: 200px;
+  width: 330px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: smaller;
+  gap: 15px;
+  margin-right: 30px;
+}
+.dunk {
+  color: brown;
+}
+.kill {
+  color: blueviolet;
+}
+.cumk {
+  color: green;
+}
+
+.plugfix {
+  position: fixed;
+  background-color: white;
+  height: 100vh;
+  width: 19%;
+}
+.timing {
+  height: 220px;
+  width: 390px;
+}
+.qwed {
+  margin-top: 60px;
+}
+.send {
+  text-decoration: none;
+}
+
+.what {
+  height: 190px;
+  width: 290px;
+}
+
+.whatdink {
+  height: 20px;
+  width: 25px;
+  border-radius: 25px;
+}
+
+.pullup {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 50px;
+  margin-top: 40px;
+  gap: 50px;
+}
+.pullupfix {
+  background-color: white;
+  height: 550px;
+  width: 290px;
+}
+
+.whatme {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  gap: 20px;
+}
+.cen {
+  color: red;
+}
+
+.intra {
+  color: blueviolet;
+}
+.layme {
+  color: green;
+}
+.met {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 150px;
+}
+.upcoming {
+  margin-right: 100px;
+  margin-bottom: 10px;
+}
+
+.pullupfixer {
+  display: flex;
+  flex-direction: row;
+  justify-self: center;
+  align-items: center;
+  margin-left: 500px;
+  gap: 60px;
+}

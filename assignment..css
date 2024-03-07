@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 35px;
+    font-size: 19px;
+    color: black;
+  }
+  body {
+    background-color: rgb(247, 245, 245);
+  }
+  .plug {
+    color: black;
+    width: 150%;
+    height: 80vh;
+    font-size: x-small;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+    gap: 30px;
+  }
+  header h3 {
+    margin-left: 20px;
+  }
+  
+  .dot {
+    margin-bottom: 50px;
+    margin-top: 80px;
+  }
+  li {
+    list-style: none;
+    display: flex;
+    column-gap: 10px;
+  }
+  span {
+    color: blueviolet;
+  }
+      
+  .spacer {
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    margin-left: 10px;
+    width: 0%;
+  }
+  .brother {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  .plugfix {
+    position: fixed;
+    background-color: white;
+    height: 100vh;
+    width: 19%;
+  } 
+  .send{text-decoration: none;} 
+  
+
+.calender {
+  height: 20px;
+  width: 20px;
+}
+.cal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 40px;
+  margin-top: 30px;
+  line-height: 25px;
+  font-size: 10px;
+  padding: 20px;
+}
+.backcl {
+  background-color: white;
+  height: 90px;
+  width: 1000px;
+  margin-right:50px 
+}
+.ninety {
+  display: flex;
+  flex-direction: row;
+  margin-left: 310px;
+  margin-top: 90px;
+}
+.times{height: 20px;
+width: 20px;}
+.upcoming{margin-bottom: 40px;}
+.there{padding-left: 20px;
+padding-top: 30px;}
+  
